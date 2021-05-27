@@ -1,4 +1,4 @@
-# TrueFramelessWindow
+# TrueFramelessWindow(QT无边框拉伸)
 A true frameless window with Qt, on both Windows and macOS
 
 ## Why
